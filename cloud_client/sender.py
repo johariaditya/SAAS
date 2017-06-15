@@ -4,7 +4,7 @@ import socket,time,commands,os,getpass
 
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 
-sip="192.168.10.185"
+sip="192.168.122.240"
 s_port=8888
 
 
